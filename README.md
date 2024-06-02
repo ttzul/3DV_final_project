@@ -368,3 +368,6 @@ python convert.py -s <location> --skip_matching [--resize] #If not resizing, Ima
   Path to the ImageMagick executable.
 </details>
 <br>
+
+### SplaTAM
+- Referto: https://github.com/spla-tam/SplaTAM

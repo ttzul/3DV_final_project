@@ -369,5 +369,6 @@ python convert.py -s <location> --skip_matching [--resize] #If not resizing, Ima
 </details>
 <br>
 
-### SplaTAM
-- Referto: https://github.com/spla-tam/SplaTAM
+
+## SplaTAM
+- Reference: https://github.com/spla-tam/SplaTAM
